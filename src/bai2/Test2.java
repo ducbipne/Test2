@@ -6,8 +6,6 @@ public class Test2 {
 	public static void main(String[] args) {
 		System.out.println("moi ban nhap so");
 		System.out.println("moi ban nhap so");
-		System.out.println("moi ban nhap so");
-		System.out.println("moi ban nhap so");
 
 	}
 }
